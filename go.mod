@@ -1,3 +1,3 @@
-module github.com/kjrstory/alices-wowchemy-blocks.git
+module github.com/kjrstory/wowchemy-block-pokemon
 
 go 1.19
